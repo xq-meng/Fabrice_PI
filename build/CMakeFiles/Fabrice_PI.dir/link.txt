@@ -1,1 +1,0 @@
-/usr/bin/g++-7   -fopenmp -g    CMakeFiles/Fabrice_PI.dir/src/Fabrice_PI.cpp.o CMakeFiles/Fabrice_PI.dir/src/main.cpp.o  -o Fabrice_PI 

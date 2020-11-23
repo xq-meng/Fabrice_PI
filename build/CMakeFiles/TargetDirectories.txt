@@ -1,3 +1,0 @@
-/home/mxq/workspace/codes/Fabrice_PI/build/CMakeFiles/rebuild_cache.dir
-/home/mxq/workspace/codes/Fabrice_PI/build/CMakeFiles/Fabrice_PI.dir
-/home/mxq/workspace/codes/Fabrice_PI/build/CMakeFiles/edit_cache.dir
